@@ -1,0 +1,8 @@
+Get Tasks             :  http://localhost:3000/task/list
+
+Post New Task         :  http://localhost:3000/task/add
+
+Patch or Update task  :  http://localhost:3000/task/update/:id
+
+Delete task           :  http://localhost:3000/task/delete/:id
+
